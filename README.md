@@ -26,7 +26,7 @@ This is a portfolio of the projects I completed in the MS Data Analysis (MSDA) d
 - [Predictive Analysis](https://github.com/NatalieToler/wgu-course-work/blob/9d931bf8ddbb731eec61c4832266c72782bbe17e/D209%20Predictive%20Analysis.ipynb)
 
 ### Course D210 Representation and Reporting
-- [Data Dashboard and Storytelling]((https://github.com/NatalieToler/wgu-course-work/blob/9d931bf8ddbb731eec61c4832266c72782bbe17e/D210%20Representation%20and%20Reporting%20PA.ipynb))
+- [Data Dashboard and Storytelling](https://github.com/NatalieToler/wgu-course-work/blob/9d931bf8ddbb731eec61c4832266c72782bbe17e/D210%20Representation%20and%20Reporting%20PA.ipynb)
     - Using Tableau
 
 ### Course D211 Advanced Data Acquisition
