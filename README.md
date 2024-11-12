@@ -44,4 +44,6 @@ This is a portfolio of the projects I completed in the MS Data Analysis (MSDA) d
     - Using Tensorflow in Python
 
 ### Capstone
-- To Be Determined - Projected Graduation Date: October, 2024
+- [Capstone Proposal - Chi-squared test of independence for business entity dataset](https://github.com/NatalieToler/wgu-course-work/blob/4e6465d0ff34db13715849bc4a654f1564f642e2/Natalie_Toler_MSDA_Proposal_Approval.pdf)
+- [Capstone Report - Chi-squared test of independence for business entity dataset](https://github.com/NatalieToler/wgu-course-work/blob/4e6465d0ff34db13715849bc4a654f1564f642e2/Natalie%20Toler%20Capstone%20Task%202.ipynb)
+- [Capstone Presentation - Chi-squared test of independence for business entity dataset](https://github.com/NatalieToler/wgu-course-work/blob/4e6465d0ff34db13715849bc4a654f1564f642e2/Does%20Business%20Structure%20effect%20a%20business%E2%80%99s%20life%20Cycle.pptx)
